@@ -1,0 +1,4 @@
+This is a line without any errors.
+There was an error in processing.
+This is the new line insertedAnother line with no errors.
+Oh no, another error occurred.

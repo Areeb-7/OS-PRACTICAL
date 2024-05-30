@@ -1,0 +1,1 @@
+awk '$3 › 50' datal.txt

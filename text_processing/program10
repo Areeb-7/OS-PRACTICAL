@@ -1,0 +1,1 @@
+sed -i '' '5a\This is another line added' example.txt

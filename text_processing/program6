@@ -1,0 +1,5 @@
+echo -e "apple\banana\norange" | sed '/apple/d'
+echo -e "apple\banana\norange" | sed -n '2p'
+echo "Hello" | sed 's/$/ World!/'
+echo "Hello, world" | sed 's/world/Universe/'
+echo "Hello, World" | sed 'y/elo/123/'

@@ -1,0 +1,1 @@
+sed -i '' '3i\This is the new line inserted' example.txt

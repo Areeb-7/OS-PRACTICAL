@@ -1,0 +1,5 @@
+awk '{print $2}' data.txt
+awk 'NR>1 {sum += $2} END {print "Total:", sum}' prices.txt
+awk '/a/' data.txt
+awk '$2 › 30' data.txt
+awk '{printf "Name: %-10s Age: %d\n", $1, $2}' data. txt
